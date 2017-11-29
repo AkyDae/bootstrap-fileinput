@@ -80,11 +80,12 @@
             removeTitle: 'Supprimer le fichier',
             uploadTitle: 'Transférer le fichier',
             uploadRetryTitle: 'Relancer le transfert',
+            downloadTitle: 'Télécharger le fichier',
             zoomTitle: 'Voir les détails',
             dragTitle: 'Déplacer / Réarranger',
             indicatorNewTitle: 'Pas encore transféré',
             indicatorSuccessTitle: 'Posté',
-            indicatorErrorTitle: 'Ajouter erreur',
+            indicatorErrorTitle: 'Erreur de transfert',
             indicatorLoadingTitle: 'En cours...'
         },
         previewZoomButtonTitles: {
